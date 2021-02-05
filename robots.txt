@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ahm4ddm.github.io/sitemap.xml
