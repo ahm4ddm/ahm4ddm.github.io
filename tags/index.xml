@@ -5,20 +5,29 @@
     <link>https://ahm4ddm.github.io/tags/</link>
     <description>Recent content in Tags on ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Feb 2021 00:38:53 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 22:29:10 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ret2libc</title>
-      <link>https://ahm4ddm.github.io/tags/ret2libc/</link>
-      <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
+      <title>32bit</title>
+      <link>https://ahm4ddm.github.io/tags/32bit/</link>
+      <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/tags/ret2libc/</guid>
+      <guid>https://ahm4ddm.github.io/tags/32bit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>64bit</title>
+      <link>https://ahm4ddm.github.io/tags/64bit/</link>
+      <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
+      
+      <guid>https://ahm4ddm.github.io/tags/64bit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rop</title>
       <link>https://ahm4ddm.github.io/tags/rop/</link>
-      <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
+      <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
       
       <guid>https://ahm4ddm.github.io/tags/rop/</guid>
       <description></description>
@@ -27,7 +36,7 @@
     <item>
       <title>stack-overflow</title>
       <link>https://ahm4ddm.github.io/tags/stack-overflow/</link>
-      <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
+      <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
       
       <guid>https://ahm4ddm.github.io/tags/stack-overflow/</guid>
       <description></description>
@@ -36,9 +45,18 @@
     <item>
       <title>writeups</title>
       <link>https://ahm4ddm.github.io/tags/writeups/</link>
-      <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
+      <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
       
       <guid>https://ahm4ddm.github.io/tags/writeups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ret2libc</title>
+      <link>https://ahm4ddm.github.io/tags/ret2libc/</link>
+      <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
+      
+      <guid>https://ahm4ddm.github.io/tags/ret2libc/</guid>
       <description></description>
     </item>
     

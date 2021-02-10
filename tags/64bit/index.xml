@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>writeups on ahm4ddm</title>
-    <link>https://ahm4ddm.github.io/tags/writeups/</link>
-    <description>Recent content in writeups on ahm4ddm</description>
+    <title>64bit on ahm4ddm</title>
+    <link>https://ahm4ddm.github.io/tags/64bit/</link>
+    <description>Recent content in 64bit on ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Feb 2021 22:29:10 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 22:29:10 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/tags/64bit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writeup ROP Emporium Ret2win [pwn]</title>
       <link>https://ahm4ddm.github.io/posts/writeup-rope-ret2win/</link>
@@ -29,25 +29,6 @@ Kita cek identitas dari file.
 $file mrs._hudson mrs._hudson: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=a99b54f5a0f90ebade826e34188ac1f5eebb2cc7, not stripped Didapatkan file ELF, 64bit, not stripped, dynamically linked.
 Selanjutnya kita cek proteksi pada file tersebut.
 $checksec mrs._hudson Arch: amd64-64-little RELRO: Partial RELRO Stack: No canary found NX: NX disabled PIE: No PIE (0x400000) RWX: Has RWX segments Kita lihat di GDB didapatkan:</description>
-    </item>
-    
-    <item>
-      <title>OverTheWire: Bandit</title>
-      <link>https://ahm4ddm.github.io/posts/writeup-overthewire-bandit-indonesia/</link>
-      <pubDate>Thu, 07 Jan 2021 22:09:39 +0700</pubDate>
-      
-      <guid>https://ahm4ddm.github.io/posts/writeup-overthewire-bandit-indonesia/</guid>
-      <description>Daftar isi Bandit Level 0
-Bandit Level 0 → Level 1 
-Bandit Level 1 → Level 2 
-Bandit Level 2 → Level 3 
-Bandit Level 3 → Level 4 
-Bandit Level 4 → Level 5 
-Bandit Level 5 → Level 6 
-Bandit Level 6 → Level 7 
-Bandit Level 7 → Level 8 
-Bandit Level 8 → Level 9 
-Bandit Level 9 → Level 10</description>
     </item>
     
   </channel>

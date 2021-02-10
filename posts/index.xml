@@ -5,7 +5,19 @@
     <link>https://ahm4ddm.github.io/posts/</link>
     <description>Recent content in Posts on ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Feb 2021 00:38:53 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 22:29:10 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writeup ROP Emporium Ret2win [pwn]</title>
+      <link>https://ahm4ddm.github.io/posts/writeup-rope-ret2win/</link>
+      <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
+      
+      <guid>https://ahm4ddm.github.io/posts/writeup-rope-ret2win/</guid>
+      <description>Daftar Isi Download     ret2win32 klik   ret2win64 klik    ret2win32 kita cek terlebih dahulu filenya.
+Didapatkan file ELF, dan dynamically linked
+$file ret2win32 ret2win32: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e1596c11f85b3ed0881193fe40783e1da685b851, not stripped lalu kita cek proteksi pada file. didapatkan NX aktif yang mana kita tidak bisa membuat shellcode.
+kita bisa bypass NX dengan metode return oriented programming (rop)</description>
+    </item>
+    
     <item>
       <title>Writeup Asis Mrs. Hudson [pwn]</title>
       <link>https://ahm4ddm.github.io/posts/writeup-asis-mrs.hudson/</link>
