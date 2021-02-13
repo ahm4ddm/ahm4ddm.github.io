@@ -5,7 +5,20 @@
     <link>https://ahm4ddm.github.io/tags/stack-overflow/</link>
     <description>Recent content in stack-overflow on ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 11 Feb 2021 23:48:14 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/tags/stack-overflow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Feb 2021 14:34:14 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/tags/stack-overflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writeup ROP Emporium Callme [pwn]</title>
+      <link>https://ahm4ddm.github.io/posts/writeups-rope-callme/</link>
+      <pubDate>Sat, 13 Feb 2021 14:34:14 +0700</pubDate>
+      
+      <guid>https://ahm4ddm.github.io/posts/writeups-rope-callme/</guid>
+      <description>Daftar Isi Download     callme32 klik   callme64 klik    callme32 kita cek terlebih dahulu filenya.
+Didapatkan file ELF, dan dynamically linked
+$file callme callme: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e8e49880bdcaeb9012c6de5f8002c72d8827ea4c, not stripped lalu kita cek proteksi pada file.
+didapatkan NX aktif yang mana kita tidak bisa membuat shellcode.
+kita bisa bypass NX dengan metode return oriented programming (rop).</description>
+    </item>
+    
     <item>
       <title>Writeup ROP Emporium Split [pwn]</title>
       <link>https://ahm4ddm.github.io/posts/writeup-rope-split/</link>
