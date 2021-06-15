@@ -108,16 +108,19 @@
   </url>
   
   <url>
-    <loc>https://ahm4ddm.github.io/repoemporium-write/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ahm4ddm.github.io/about/</loc>
   </url>
   
   <url>
     <loc>https://ahm4ddm.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.github.io/colleges/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.github.io/projects/</loc>
   </url>
   
 </urlset>

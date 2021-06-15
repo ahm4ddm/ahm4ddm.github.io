@@ -88,20 +88,6 @@ Bandit Level 9 → Level 10</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://ahm4ddm.github.io/repoemporium-write/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ahm4ddm.github.io/repoemporium-write/</guid>
-      <description>write432 Kita cek terlebih filenya.
-Didapatkan file ELF, dan dynamically linked
-$file write432 write432: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7142f5deace762a46e5cc43b6ca7e8818c9abe69, not stripped Lalu kita cek proteksi pada file.
-didapatkan NX aktif yang mana kita tidak bisa membuat shellcode.
-kita bisa bypass NX dengan metode return oriented programming (rop).
-$checksec write432 Arch: i386-32-little RELRO: Partial RELRO Stack: No canary found NX: NX enabled PIE: No PIE (0x8048000) RUNPATH: b&#39;.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://ahm4ddm.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -117,6 +103,24 @@ $checksec write432 Arch: i386-32-little RELRO: Partial RELRO Stack: No canary fo
       
       <guid>https://ahm4ddm.github.io/archives/</guid>
       <description>archives</description>
+    </item>
+    
+    <item>
+      <title>Coming soon</title>
+      <link>https://ahm4ddm.github.io/colleges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahm4ddm.github.io/colleges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coming soon</title>
+      <link>https://ahm4ddm.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahm4ddm.github.io/projects/</guid>
+      <description></description>
     </item>
     
   </channel>
