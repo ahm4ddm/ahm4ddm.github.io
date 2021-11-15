@@ -8,10 +8,10 @@
     <lastBuildDate>Fri, 19 Feb 2021 23:09:03 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writeup ROP Emporium write4 [pwn]</title>
-      <link>https://ahm4ddm.github.io/posts/writeup-rope-write4/</link>
+      <link>https://ahm4ddm.github.io/writeups/writeup-rope-write4/</link>
       <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/posts/writeup-rope-write4/</guid>
+      <guid>https://ahm4ddm.github.io/writeups/writeup-rope-write4/</guid>
       <description>Daftar Isi Download     write432 klik   write4 klik    write432 Kita cek terlebih filenya.
 Didapatkan file ELF, dan dynamically linked
 $file write432 write432: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7142f5deace762a46e5cc43b6ca7e8818c9abe69, not stripped Lalu kita cek proteksi pada file.
@@ -21,10 +21,10 @@ kita bisa bypass NX dengan metode return oriented programming (rop).</descriptio
     
     <item>
       <title>Writeup ROP Emporium Callme [pwn]</title>
-      <link>https://ahm4ddm.github.io/posts/writeups-rope-callme/</link>
+      <link>https://ahm4ddm.github.io/writeups/writeups-rope-callme/</link>
       <pubDate>Sat, 13 Feb 2021 14:34:14 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/posts/writeups-rope-callme/</guid>
+      <guid>https://ahm4ddm.github.io/writeups/writeups-rope-callme/</guid>
       <description>Daftar Isi Download     callme32 klik   callme64 klik    callme32 kita cek terlebih dahulu filenya.
 Didapatkan file ELF, dan dynamically linked
 $file callme callme: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e8e49880bdcaeb9012c6de5f8002c72d8827ea4c, not stripped lalu kita cek proteksi pada file.
@@ -34,10 +34,10 @@ kita bisa bypass NX dengan metode return oriented programming (rop).</descriptio
     
     <item>
       <title>Writeup ROP Emporium Split [pwn]</title>
-      <link>https://ahm4ddm.github.io/posts/writeup-rope-split/</link>
+      <link>https://ahm4ddm.github.io/writeups/writeup-rope-split/</link>
       <pubDate>Thu, 11 Feb 2021 23:48:14 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/posts/writeup-rope-split/</guid>
+      <guid>https://ahm4ddm.github.io/writeups/writeup-rope-split/</guid>
       <description>Daftar Isi Download     ret2split32 klik   ret2split64 klik    ret2split32 Kita cek terlebih dahulu informasi file
 didapatkan file ELF dan dynamically linked.
 $file split32 split32: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=76cb700a2ac0484fb4fa83171a17689b37b9ee8d, not stripped lalu kita cek proteksi pada file. didapatkan NX aktif yang mana kita tidak bisa membuat shellcode.</description>
@@ -45,10 +45,10 @@ $file split32 split32: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV),
     
     <item>
       <title>Writeup ROP Emporium Ret2win [pwn]</title>
-      <link>https://ahm4ddm.github.io/posts/writeup-rope-ret2win/</link>
+      <link>https://ahm4ddm.github.io/writeups/writeup-rope-ret2win/</link>
       <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/posts/writeup-rope-ret2win/</guid>
+      <guid>https://ahm4ddm.github.io/writeups/writeup-rope-ret2win/</guid>
       <description>Daftar Isi Download     ret2win32 klik   ret2win64 klik    ret2win32 kita cek terlebih dahulu filenya.
 Didapatkan file ELF, dan dynamically linked
 $file ret2win32 ret2win32: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e1596c11f85b3ed0881193fe40783e1da685b851, not stripped lalu kita cek proteksi pada file. didapatkan NX aktif yang mana kita tidak bisa membuat shellcode.
@@ -57,10 +57,10 @@ kita bisa bypass NX dengan metode return oriented programming (rop)</description
     
     <item>
       <title>Writeup Asis Mrs. Hudson [pwn]</title>
-      <link>https://ahm4ddm.github.io/posts/writeup-asis-mrs.hudson/</link>
+      <link>https://ahm4ddm.github.io/writeups/writeup-asis-mrs.hudson/</link>
       <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/posts/writeup-asis-mrs.hudson/</guid>
+      <guid>https://ahm4ddm.github.io/writeups/writeup-asis-mrs.hudson/</guid>
       <description>klik disini untuk download file.
 Kita cek identitas dari file.
 $file mrs._hudson mrs._hudson: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=a99b54f5a0f90ebade826e34188ac1f5eebb2cc7, not stripped Didapatkan file ELF, 64bit, not stripped, dynamically linked.
@@ -70,10 +70,10 @@ $checksec mrs._hudson Arch: amd64-64-little RELRO: Partial RELRO Stack: No canar
     
     <item>
       <title>OverTheWire: Bandit</title>
-      <link>https://ahm4ddm.github.io/posts/writeup-overthewire-bandit-indonesia/</link>
+      <link>https://ahm4ddm.github.io/writeups/writeup-overthewire-bandit-indonesia/</link>
       <pubDate>Thu, 07 Jan 2021 22:09:39 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/posts/writeup-overthewire-bandit-indonesia/</guid>
+      <guid>https://ahm4ddm.github.io/writeups/writeup-overthewire-bandit-indonesia/</guid>
       <description>Daftar isi Bandit Level 0
 Bandit Level 0 → Level 1 
 Bandit Level 1 → Level 2 
@@ -88,12 +88,30 @@ Bandit Level 9 → Level 10</description>
     </item>
     
     <item>
+      <title> Manajemen dan Kurikulum Bidang Studi - CIE62005</title>
+      <link>https://ahm4ddm.github.io/colleges/manajemendankurikulumbidangstudi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahm4ddm.github.io/colleges/manajemendankurikulumbidangstudi/</guid>
+      <description>Deskripsi Mata kuliah ini membahas tentang konsep yang mendasari perlunya ada kurikulum, memilih cara-cara pengembangan kurikulum sesuai kebutuhan bidang studi, merancang kurikulum berbasis kompetensi, dan mengevaluasi kurikulum yang telah dikembangkan.
+Materi 1. Audit kemampuan TIK, Pengetahuan Guru TIK, Perencanaan pembelajaran TIk, dan Manajemen kelas TIK
+2. Kurikulum dan komponen-komponen kurikulum
+3. Landasan-landasan pengembangan kurikulum
+4. Prinsip-prinsip pengembangan kurikulum
+5. Model dan panduan pengembangan kurikulum
+6. Analisis kompetensi dasar dan indikator pencapaian kompetensi K13</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://ahm4ddm.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ahm4ddm.github.io/about/</guid>
-      <description>Hallo, aku Ahmad Mahasiswa Universitas Brawijaya</description>
+      <description>Hallo, nama saya Ahmad Dany Mirza.
+Senang belajar pengetahuan baru.
+Suka dan tertarik dengan Cyber Security.
+Saya masih mahasiswa di Univesitas Brawijaya tepatnya di Fakultas Ilmu Komputer Program Studi Pendidikan Teknologi Informasi.</description>
     </item>
     
     <item>
@@ -107,20 +125,64 @@ Bandit Level 9 → Level 10</description>
     
     <item>
       <title>Coming soon</title>
-      <link>https://ahm4ddm.github.io/colleges/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ahm4ddm.github.io/colleges/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coming soon</title>
       <link>https://ahm4ddm.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ahm4ddm.github.io/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Pengantar Filsafat Ilmu Pendidikan - CIE61110</title>
+      <link>https://ahm4ddm.github.io/colleges/pengantarfilsafatilmupendidikan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahm4ddm.github.io/colleges/pengantarfilsafatilmupendidikan/</guid>
+      <description>Deskripsi Mata kuliah ini membahas tentang kedudukan manusia, filsafat, dan ilimu, mampu menyusun argumentasi sesuai kaidah ilmiah, menggunakan filsafat Pendidikan dan ilmu Pendidikan untuk melakukan problematika fenomena pendidikan, memahami proses dan sistem pendidikan, serta memahami profesi keguruan sebagai pengelola pembelajaran di institusi Pendidikan.
+Materi 1. Hubungan antara manusia, filsafat, dan ilmu
+2. Hakikat manusia sebagai pelaku filsafat dan pengguna ilmu
+3. Hakekat pendidikan bagi kehidupan masyarakat
+4. Sejarah/kejadian pokok dan personal yang mempengaruhi perkembangan pendidikan di Indonesia dan dunia</description>
+    </item>
+    
+    <item>
+      <title>Perencanaan dan Desain Pembelajaran - CIE61008</title>
+      <link>https://ahm4ddm.github.io/colleges/perencanaandandesainpembelajaran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahm4ddm.github.io/colleges/perencanaandandesainpembelajaran/</guid>
+      <description>Deskripsi Mata kuliah ini membahas tentang konsep dasar perencanaan pembelajaran, kaitan perencanaan dengan implementasi pembelajaran, langkah-langkah perencanaan pembelajaran, model-model desain instruksional, dan membuat rancangan produk pembelajaran. Melalui matakuliah ini, mahasiswa mampu merancang proses pembelajaran secara umum maupun secara khusus, pembelajaran daring maupun luring, dengan menerapkan kurikulum dan inovasi teknologi terkini.
+Materi 1. Konsep desain instruksional
+2. Konsep pedagogi dan andragogi
+3. Model desain instruksional
+4. Standar proses pembelajaran
+5. Analisis kompetensi</description>
+    </item>
+    
+    <item>
+      <title>Perkembangan Peserta Didik - CIE61111</title>
+      <link>https://ahm4ddm.github.io/colleges/perkembanganpesertadidik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahm4ddm.github.io/colleges/perkembanganpesertadidik/</guid>
+      <description>Deskripsi Mata kuliah ini membahas tentang hakikat dan keunikan individu, gejala pertumbuhan dan perkembangan, karakteristik berdasarkan masa perkembangan, dan pembimbingan belajar pada peserta didik.
+Materi 1. Definisi, Hakikat, dan Kebutuhan Peserta Didik
+2. Tahap pertumbuhan dan perkembangan peserta didik
+3. Perkembangan kognitif, kreativitas, emosi pada peserta didik
+4. Perkembangan bakat khusus, hubungan sosial, kemandirian pada peserta didik
+5. Perkembangan bahasa, nilai, moral dan sikap pada individu
+6. Jenis kebutuhan individu dan proses penyesuaian diri</description>
+    </item>
+    
+    <item>
+      <title>Teori Belajar dan Pembelajaran - CIE62120</title>
+      <link>https://ahm4ddm.github.io/colleges/teoribelajardanpengajaran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahm4ddm.github.io/colleges/teoribelajardanpengajaran/</guid>
+      <description>Deskripsi Mata kuliah ini membahas tentang konsep teori belajar dan pembelajaran yang berkaitan dengan bidang instruksional dan manajerial kelas (kepemimpinan/ pengelolaan kelas). Bidang instruksional yaitu hal-hal yang langsung menunjang keberhasilan kurikulum, seperti:
+ tujuan pembelajaran materi pembelajaran (isi kurikulum) pendekatan, metode dan teknik pembelajaran media pembelajaran dan penilaian  Bidang manajerial berkaitan dengan kemampuan guru menguasai dan mengelola kelas, seperti:
+ bagaimana mengelola orang (siswa dan guru sendiri) memahami beberapa tingkah laku dan sikap siswa yang bermasalah secara individual atau kelompok serta cara menguasainya.</description>
     </item>
     
   </channel>
