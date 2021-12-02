@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>practice on ahm4ddm</title>
-    <link>https://ahm4ddm.github.io/tags/practice/</link>
-    <description>Recent content in practice on ahm4ddm</description>
+    <title>practice on ~/.ahm4ddm</title>
+    <link>https://ahm4ddm.xyz/tags/practice/</link>
+    <description>Recent content in practice on ~/.ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 07 Jan 2021 22:09:39 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/tags/practice/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 22:09:39 +0700</lastBuildDate><atom:link href="https://ahm4ddm.xyz/tags/practice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OverTheWire: Bandit</title>
-      <link>https://ahm4ddm.github.io/writeups/writeup-overthewire-bandit-indonesia/</link>
+      <link>https://ahm4ddm.xyz/writeups/writeup-overthewire-bandit-indonesia/</link>
       <pubDate>Thu, 07 Jan 2021 22:09:39 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/writeups/writeup-overthewire-bandit-indonesia/</guid>
-      <description>Daftar isi Bandit Level 0
-Bandit Level 0 → Level 1 
-Bandit Level 1 → Level 2 
-Bandit Level 2 → Level 3 
-Bandit Level 3 → Level 4 
-Bandit Level 4 → Level 5 
-Bandit Level 5 → Level 6 
-Bandit Level 6 → Level 7 
-Bandit Level 7 → Level 8 
-Bandit Level 8 → Level 9 
-Bandit Level 9 → Level 10</description>
+      <guid>https://ahm4ddm.xyz/writeups/writeup-overthewire-bandit-indonesia/</guid>
+      <description>Writeup OverTheWire - Bandit (Indonesia)</description>
     </item>
     
   </channel>

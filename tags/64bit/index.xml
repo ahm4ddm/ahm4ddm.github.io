@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>64bit on ahm4ddm</title>
-    <link>https://ahm4ddm.github.io/tags/64bit/</link>
-    <description>Recent content in 64bit on ahm4ddm</description>
+    <title>64bit on ~/.ahm4ddm</title>
+    <link>https://ahm4ddm.xyz/tags/64bit/</link>
+    <description>Recent content in 64bit on ~/.ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 13 Feb 2021 14:34:14 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/tags/64bit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 23:09:03 +0700</lastBuildDate><atom:link href="https://ahm4ddm.xyz/tags/64bit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writeup ROP Emporium write4 [pwn]</title>
+      <link>https://ahm4ddm.xyz/writeups/rop-emporium/writeup-rope-write4/</link>
+      <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
+      
+      <guid>https://ahm4ddm.xyz/writeups/rop-emporium/writeup-rope-write4/</guid>
+      <description>Daftar Isi Download     write432 klik   write4 klik    write432 Kita cek terlebih filenya.
+Didapatkan file ELF, dan dynamically linked
+$file write432 write432: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7142f5deace762a46e5cc43b6ca7e8818c9abe69, not stripped Lalu kita cek proteksi pada file.
+didapatkan NX aktif yang mana kita tidak bisa membuat shellcode.
+kita bisa bypass NX dengan metode return oriented programming (rop).</description>
+    </item>
+    
     <item>
       <title>Writeup ROP Emporium Callme [pwn]</title>
-      <link>https://ahm4ddm.github.io/writeups/writeups-rope-callme/</link>
+      <link>https://ahm4ddm.xyz/writeups/rop-emporium/writeups-rope-callme/</link>
       <pubDate>Sat, 13 Feb 2021 14:34:14 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/writeups/writeups-rope-callme/</guid>
+      <guid>https://ahm4ddm.xyz/writeups/rop-emporium/writeups-rope-callme/</guid>
       <description>Daftar Isi Download     callme32 klik   callme64 klik    callme32 kita cek terlebih dahulu filenya.
 Didapatkan file ELF, dan dynamically linked
 $file callme callme: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e8e49880bdcaeb9012c6de5f8002c72d8827ea4c, not stripped lalu kita cek proteksi pada file.
@@ -21,10 +34,10 @@ kita bisa bypass NX dengan metode return oriented programming (rop).</descriptio
     
     <item>
       <title>Writeup ROP Emporium Split [pwn]</title>
-      <link>https://ahm4ddm.github.io/writeups/writeup-rope-split/</link>
+      <link>https://ahm4ddm.xyz/writeups/rop-emporium/writeup-rope-split/</link>
       <pubDate>Thu, 11 Feb 2021 23:48:14 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/writeups/writeup-rope-split/</guid>
+      <guid>https://ahm4ddm.xyz/writeups/rop-emporium/writeup-rope-split/</guid>
       <description>Daftar Isi Download     ret2split32 klik   ret2split64 klik    ret2split32 Kita cek terlebih dahulu informasi file
 didapatkan file ELF dan dynamically linked.
 $file split32 split32: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=76cb700a2ac0484fb4fa83171a17689b37b9ee8d, not stripped lalu kita cek proteksi pada file. didapatkan NX aktif yang mana kita tidak bisa membuat shellcode.</description>
@@ -32,10 +45,10 @@ $file split32 split32: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV),
     
     <item>
       <title>Writeup ROP Emporium Ret2win [pwn]</title>
-      <link>https://ahm4ddm.github.io/writeups/writeup-rope-ret2win/</link>
+      <link>https://ahm4ddm.xyz/writeups/rop-emporium/writeup-rope-ret2win/</link>
       <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/writeups/writeup-rope-ret2win/</guid>
+      <guid>https://ahm4ddm.xyz/writeups/rop-emporium/writeup-rope-ret2win/</guid>
       <description>Daftar Isi Download     ret2win32 klik   ret2win64 klik    ret2win32 kita cek terlebih dahulu filenya.
 Didapatkan file ELF, dan dynamically linked
 $file ret2win32 ret2win32: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e1596c11f85b3ed0881193fe40783e1da685b851, not stripped lalu kita cek proteksi pada file. didapatkan NX aktif yang mana kita tidak bisa membuat shellcode.
@@ -44,10 +57,10 @@ kita bisa bypass NX dengan metode return oriented programming (rop)</description
     
     <item>
       <title>Writeup Asis Mrs. Hudson [pwn]</title>
-      <link>https://ahm4ddm.github.io/writeups/writeup-asis-mrs.hudson/</link>
+      <link>https://ahm4ddm.xyz/writeups/writeup-asis-mrs.hudson/</link>
       <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/writeups/writeup-asis-mrs.hudson/</guid>
+      <guid>https://ahm4ddm.xyz/writeups/writeup-asis-mrs.hudson/</guid>
       <description>klik disini untuk download file.
 Kita cek identitas dari file.
 $file mrs._hudson mrs._hudson: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=a99b54f5a0f90ebade826e34188ac1f5eebb2cc7, not stripped Didapatkan file ELF, 64bit, not stripped, dynamically linked.

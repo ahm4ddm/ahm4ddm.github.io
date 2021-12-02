@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on ahm4ddm</title>
-    <link>https://ahm4ddm.github.io/tags/</link>
-    <description>Recent content in Tags on ahm4ddm</description>
+    <title>Tags on ~/.ahm4ddm</title>
+    <link>https://ahm4ddm.xyz/tags/</link>
+    <description>Recent content in Tags on ~/.ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 13 Feb 2021 14:34:14 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 23:09:03 +0700</lastBuildDate><atom:link href="https://ahm4ddm.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>32bit</title>
-      <link>https://ahm4ddm.github.io/tags/32bit/</link>
-      <pubDate>Sat, 13 Feb 2021 14:34:14 +0700</pubDate>
+      <link>https://ahm4ddm.xyz/tags/32bit/</link>
+      <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/tags/32bit/</guid>
+      <guid>https://ahm4ddm.xyz/tags/32bit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>64bit</title>
-      <link>https://ahm4ddm.github.io/tags/64bit/</link>
-      <pubDate>Sat, 13 Feb 2021 14:34:14 +0700</pubDate>
+      <link>https://ahm4ddm.xyz/tags/64bit/</link>
+      <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/tags/64bit/</guid>
+      <guid>https://ahm4ddm.xyz/tags/64bit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rop</title>
-      <link>https://ahm4ddm.github.io/tags/rop/</link>
-      <pubDate>Sat, 13 Feb 2021 14:34:14 +0700</pubDate>
+      <link>https://ahm4ddm.xyz/tags/rop/</link>
+      <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/tags/rop/</guid>
+      <guid>https://ahm4ddm.xyz/tags/rop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stack-overflow</title>
-      <link>https://ahm4ddm.github.io/tags/stack-overflow/</link>
-      <pubDate>Sat, 13 Feb 2021 14:34:14 +0700</pubDate>
+      <link>https://ahm4ddm.xyz/tags/stack-overflow/</link>
+      <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/tags/stack-overflow/</guid>
+      <guid>https://ahm4ddm.xyz/tags/stack-overflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writeups</title>
-      <link>https://ahm4ddm.github.io/tags/writeups/</link>
-      <pubDate>Sat, 13 Feb 2021 14:34:14 +0700</pubDate>
+      <link>https://ahm4ddm.xyz/tags/writeups/</link>
+      <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/tags/writeups/</guid>
+      <guid>https://ahm4ddm.xyz/tags/writeups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ret2libc</title>
-      <link>https://ahm4ddm.github.io/tags/ret2libc/</link>
+      <link>https://ahm4ddm.xyz/tags/ret2libc/</link>
       <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/tags/ret2libc/</guid>
+      <guid>https://ahm4ddm.xyz/tags/ret2libc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>https://ahm4ddm.github.io/tags/linux/</link>
+      <link>https://ahm4ddm.xyz/tags/linux/</link>
       <pubDate>Thu, 07 Jan 2021 22:09:39 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/tags/linux/</guid>
+      <guid>https://ahm4ddm.xyz/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>practice</title>
-      <link>https://ahm4ddm.github.io/tags/practice/</link>
+      <link>https://ahm4ddm.xyz/tags/practice/</link>
       <pubDate>Thu, 07 Jan 2021 22:09:39 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/tags/practice/</guid>
+      <guid>https://ahm4ddm.xyz/tags/practice/</guid>
       <description></description>
     </item>
     
