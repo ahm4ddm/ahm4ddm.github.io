@@ -5,49 +5,40 @@
     <link>https://ahm4ddm.xyz/tags/</link>
     <description>Recent content in Tags on ~/.ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Feb 2021 23:09:03 +0700</lastBuildDate><atom:link href="https://ahm4ddm.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 22:29:10 +0700</lastBuildDate><atom:link href="https://ahm4ddm.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>32bit</title>
-      <link>https://ahm4ddm.xyz/tags/32bit/</link>
-      <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
+      <title>linux</title>
+      <link>https://ahm4ddm.xyz/tags/linux/</link>
+      <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
       
-      <guid>https://ahm4ddm.xyz/tags/32bit/</guid>
+      <guid>https://ahm4ddm.xyz/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>64bit</title>
-      <link>https://ahm4ddm.xyz/tags/64bit/</link>
-      <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
+      <title>practice</title>
+      <link>https://ahm4ddm.xyz/tags/practice/</link>
+      <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
       
-      <guid>https://ahm4ddm.xyz/tags/64bit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rop</title>
-      <link>https://ahm4ddm.xyz/tags/rop/</link>
-      <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
-      
-      <guid>https://ahm4ddm.xyz/tags/rop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stack-overflow</title>
-      <link>https://ahm4ddm.xyz/tags/stack-overflow/</link>
-      <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
-      
-      <guid>https://ahm4ddm.xyz/tags/stack-overflow/</guid>
+      <guid>https://ahm4ddm.xyz/tags/practice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writeups</title>
       <link>https://ahm4ddm.xyz/tags/writeups/</link>
-      <pubDate>Fri, 19 Feb 2021 23:09:03 +0700</pubDate>
+      <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
       
       <guid>https://ahm4ddm.xyz/tags/writeups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>64bit</title>
+      <link>https://ahm4ddm.xyz/tags/64bit/</link>
+      <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
+      
+      <guid>https://ahm4ddm.xyz/tags/64bit/</guid>
       <description></description>
     </item>
     
@@ -61,20 +52,20 @@
     </item>
     
     <item>
-      <title>linux</title>
-      <link>https://ahm4ddm.xyz/tags/linux/</link>
-      <pubDate>Thu, 07 Jan 2021 22:09:39 +0700</pubDate>
+      <title>rop</title>
+      <link>https://ahm4ddm.xyz/tags/rop/</link>
+      <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
       
-      <guid>https://ahm4ddm.xyz/tags/linux/</guid>
+      <guid>https://ahm4ddm.xyz/tags/rop/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>practice</title>
-      <link>https://ahm4ddm.xyz/tags/practice/</link>
-      <pubDate>Thu, 07 Jan 2021 22:09:39 +0700</pubDate>
+      <title>stack-overflow</title>
+      <link>https://ahm4ddm.xyz/tags/stack-overflow/</link>
+      <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
       
-      <guid>https://ahm4ddm.xyz/tags/practice/</guid>
+      <guid>https://ahm4ddm.xyz/tags/stack-overflow/</guid>
       <description></description>
     </item>
     

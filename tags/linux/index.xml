@@ -5,7 +5,16 @@
     <link>https://ahm4ddm.xyz/tags/linux/</link>
     <description>Recent content in linux on ~/.ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 07 Jan 2021 22:09:39 +0700</lastBuildDate><atom:link href="https://ahm4ddm.xyz/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 22:29:10 +0700</lastBuildDate><atom:link href="https://ahm4ddm.xyz/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ROP Emporium</title>
+      <link>https://ahm4ddm.xyz/writeups/writeup-ropemporium/</link>
+      <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
+      
+      <guid>https://ahm4ddm.xyz/writeups/writeup-ropemporium/</guid>
+      <description>Writeup ROP Emporium x86 dan x86_64(Indonesia)</description>
+    </item>
+    
     <item>
       <title>OverTheWire: Bandit</title>
       <link>https://ahm4ddm.xyz/writeups/writeup-overthewire-bandit-indonesia/</link>

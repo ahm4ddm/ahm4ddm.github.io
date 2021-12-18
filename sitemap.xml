@@ -1,94 +1,135 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://ahm4ddm.xyz/posts/hallo/</loc>
     <lastmod>2021-11-16T02:42:05+07:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/posts/</loc>
     <lastmod>2021-11-16T02:42:05+07:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/</loc>
     <lastmod>2021-11-16T02:42:05+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/tags/32bit/</loc>
-    <lastmod>2021-02-19T23:09:03+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/tags/64bit/</loc>
-    <lastmod>2021-02-19T23:09:03+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/categories/binary-exploitation/</loc>
-    <lastmod>2021-02-19T23:09:03+07:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/categories/</loc>
-    <lastmod>2021-02-19T23:09:03+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/tags/rop/</loc>
-    <lastmod>2021-02-19T23:09:03+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/categories/rop-emporium/</loc>
-    <lastmod>2021-02-19T23:09:03+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/tags/stack-overflow/</loc>
-    <lastmod>2021-02-19T23:09:03+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/tags/</loc>
-    <lastmod>2021-02-19T23:09:03+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/writeups/rop-emporium/writeup-rope-write4/</loc>
-    <lastmod>2021-02-19T23:09:03+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/writeups/</loc>
-    <lastmod>2021-02-19T23:09:03+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/tags/writeups/</loc>
-    <lastmod>2021-02-19T23:09:03+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/writeups/rop-emporium/writeups-rope-callme/</loc>
-    <lastmod>2021-02-13T14:34:14+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/writeups/rop-emporium/writeup-rope-split/</loc>
-    <lastmod>2021-02-11T23:48:14+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/writeups/rop-emporium/writeup-rope-ret2win/</loc>
     <lastmod>2021-02-10T22:29:10+07:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.xyz/tags/linux/</loc>
+    <lastmod>2021-02-10T22:29:10+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.xyz/tags/practice/</loc>
+    <lastmod>2021-02-10T22:29:10+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.xyz/writeups/writeup-ropemporium/</loc>
+    <lastmod>2021-02-10T22:29:10+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.xyz/categories/security/</loc>
+    <lastmod>2021-02-10T22:29:10+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.xyz/tags/</loc>
+    <lastmod>2021-02-10T22:29:10+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.xyz/writeups/</loc>
+    <lastmod>2021-02-10T22:29:10+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.xyz/tags/writeups/</loc>
+    <lastmod>2021-02-10T22:29:10+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.xyz/tags/64bit/</loc>
+    <lastmod>2021-02-07T00:38:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.xyz/categories/binary-exploitation/</loc>
+    <lastmod>2021-02-07T00:38:53+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/tags/ret2libc/</loc>
     <lastmod>2021-02-07T00:38:53+07:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.xyz/tags/rop/</loc>
+    <lastmod>2021-02-07T00:38:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahm4ddm.xyz/tags/stack-overflow/</loc>
+    <lastmod>2021-02-07T00:38:53+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/writeups/writeup-asis-mrs.hudson/</loc>
     <lastmod>2021-02-07T00:38:53+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/tags/linux/</loc>
-    <lastmod>2021-01-07T22:09:39+07:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/writeups/writeup-overthewire-bandit-indonesia/</loc>
     <lastmod>2021-01-07T22:09:39+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/tags/practice/</loc>
-    <lastmod>2021-01-07T22:09:39+07:00</lastmod>
-  </url><url>
-    <loc>https://ahm4ddm.xyz/categories/security/</loc>
-    <lastmod>2021-01-07T22:09:39+07:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/colleges/manajemendankurikulumbidangstudi/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/about/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/archives/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/colleges/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/projects/projects/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/colleges/pengantarfilsafatilmupendidikan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/colleges/perencanaandandesainpembelajaran/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/colleges/perkembanganpesertadidik/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/projects/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://ahm4ddm.xyz/colleges/teoribelajardanpengajaran/</loc>
   </url>
+  
 </urlset>
