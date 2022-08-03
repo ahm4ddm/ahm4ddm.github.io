@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>stack-overflow on ~/.ahm4ddm</title>
-    <link>ahm4ddm.xyz/tags/stack-overflow/</link>
+    <link>https://ahm4ddm.xyz/tags/stack-overflow/</link>
     <description>Recent content in stack-overflow on ~/.ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Feb 2021 00:38:53 +0700</lastBuildDate><atom:link href="ahm4ddm.xyz/tags/stack-overflow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Feb 2021 00:38:53 +0700</lastBuildDate><atom:link href="https://ahm4ddm.xyz/tags/stack-overflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writeup Asis Mrs. Hudson [pwn]</title>
-      <link>ahm4ddm.xyz/posts/ctf/writeup-asis-mrs.hudson/</link>
+      <link>https://ahm4ddm.xyz/posts/ctf/writeup-asis-mrs.hudson/</link>
       <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
       
-      <guid>ahm4ddm.xyz/posts/ctf/writeup-asis-mrs.hudson/</guid>
+      <guid>https://ahm4ddm.xyz/posts/ctf/writeup-asis-mrs.hudson/</guid>
       <description>klik disini untuk download file.
 Kita cek identitas dari file.
 1 2  $file mrs._hudson mrs._hudson: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=a99b54f5a0f90ebade826e34188ac1f5eebb2cc7, not stripped   Didapatkan file ELF, 64bit, not stripped, dynamically linked.

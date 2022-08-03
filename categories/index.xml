@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on ~/.ahm4ddm</title>
-    <link>ahm4ddm.xyz/categories/</link>
+    <link>https://ahm4ddm.xyz/categories/</link>
     <description>Recent content in Categories on ~/.ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Feb 2021 22:29:10 +0700</lastBuildDate><atom:link href="ahm4ddm.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 22:29:10 +0700</lastBuildDate><atom:link href="https://ahm4ddm.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>security</title>
-      <link>ahm4ddm.xyz/categories/security/</link>
+      <link>https://ahm4ddm.xyz/categories/security/</link>
       <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
       
-      <guid>ahm4ddm.xyz/categories/security/</guid>
+      <guid>https://ahm4ddm.xyz/categories/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>binary exploitation</title>
-      <link>ahm4ddm.xyz/categories/binary-exploitation/</link>
+      <link>https://ahm4ddm.xyz/categories/binary-exploitation/</link>
       <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
       
-      <guid>ahm4ddm.xyz/categories/binary-exploitation/</guid>
+      <guid>https://ahm4ddm.xyz/categories/binary-exploitation/</guid>
       <description></description>
     </item>
     
