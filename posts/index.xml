@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ~/.ahm4ddm</title>
-    <link>https://ahm4ddm.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on ~/.ahm4ddm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Aug 2022 23:34:13 +0700</lastBuildDate><atom:link href="https://ahm4ddm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 23:34:13 +0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Instalasi Adguard Home untuk Proteksi Perangkat pada Home Network</title>
-      <link>https://ahm4ddm.github.io/posts/instalasi-adguard-home-untuk-proteksi-perangkat-pada-home-network/</link>
+      <link>/posts/instalasi-adguard-home-untuk-proteksi-perangkat-pada-home-network/</link>
       <pubDate>Mon, 01 Aug 2022 23:34:13 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/posts/instalasi-adguard-home-untuk-proteksi-perangkat-pada-home-network/</guid>
+      <guid>/posts/instalasi-adguard-home-untuk-proteksi-perangkat-pada-home-network/</guid>
       <description>Pendahuluan Internet memberikan kemudahan dalam mendapatkan suatu informasi, seperti mendapatkan berita dan berkomunikasi dengan seseorang dari segala penjuru dunia. Pada sisi lain internet seperti pisau jika digunakan dibawah umur secara tidak langsung akan melukai dan membahayakan. Pada gambar diatas banyak sekali iklan yang menyerupai seolah-olah bagian dari konten website. Orang yang awam dalam penggunaan teknologi kemungkinan menjadi sasaran dikarenakan kurangnya pengetahuan dalam berseluncur di dunia internet. Postingan ini akan menjelaskan bagaimana cara memproteksi jaringan dalam rumah untuk meminimalisir adanya iklan dan memberikan perlindungan tambahan dalam berselancar di internet menggunakan Adguard Home dengan aman.</description>
     </item>
     
     <item>
       <title>ROP Emporium</title>
-      <link>https://ahm4ddm.github.io/posts/ctf/writeup-ropemporium/</link>
+      <link>/posts/ctf/writeup-ropemporium/</link>
       <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/posts/ctf/writeup-ropemporium/</guid>
+      <guid>/posts/ctf/writeup-ropemporium/</guid>
       <description>Writeup ROP Emporium x86 dan x86_64(Indonesia)</description>
     </item>
     
     <item>
       <title>Writeup Asis Mrs. Hudson [pwn]</title>
-      <link>https://ahm4ddm.github.io/posts/ctf/writeup-asis-mrs.hudson/</link>
+      <link>/posts/ctf/writeup-asis-mrs.hudson/</link>
       <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/posts/ctf/writeup-asis-mrs.hudson/</guid>
+      <guid>/posts/ctf/writeup-asis-mrs.hudson/</guid>
       <description>klik disini untuk download file.
 Kita cek identitas dari file.
 1 2  $file mrs._hudson mrs._hudson: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=a99b54f5a0f90ebade826e34188ac1f5eebb2cc7, not stripped   Didapatkan file ELF, 64bit, not stripped, dynamically linked.
@@ -39,19 +39,19 @@ Selanjutnya kita cek proteksi pada file tersebut.
     
     <item>
       <title>OverTheWire: Bandit</title>
-      <link>https://ahm4ddm.github.io/posts/ctf/writeup-overthewire-bandit-indonesia/</link>
+      <link>/posts/ctf/writeup-overthewire-bandit-indonesia/</link>
       <pubDate>Thu, 07 Jan 2021 22:09:39 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/posts/ctf/writeup-overthewire-bandit-indonesia/</guid>
+      <guid>/posts/ctf/writeup-overthewire-bandit-indonesia/</guid>
       <description>Writeup OverTheWire - Bandit (Indonesia)</description>
     </item>
     
     <item>
       <title>Hallo</title>
-      <link>https://ahm4ddm.github.io/posts/hallo/</link>
+      <link>/posts/hallo/</link>
       <pubDate>Tue, 05 Jan 2021 02:42:05 +0700</pubDate>
       
-      <guid>https://ahm4ddm.github.io/posts/hallo/</guid>
+      <guid>/posts/hallo/</guid>
       <description>Ini adalah postingan pertamaku</description>
     </item>
     
