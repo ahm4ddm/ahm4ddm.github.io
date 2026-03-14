@@ -14,15 +14,15 @@ Blog ini membagikan pengalaman dan pengetahuan saya terkait ilmu komputer dan *w
 - [CMPEN-ANDROID](https://pentestingexams.com/certificate-validation/) - Certified Mobile Pentester (id: 8974357 first: Ahmad)
 - [ECSSv9](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=xnGqKp78Li3UXbcVZ7g6jHZFUdPyP6fMLpfLfHbnMJk=) - EC-Council Certified Security Specialist v9
 
+## Akademik dan Media
+- [Garuda Kemdikbud](https://garuda.kemdiktisaintek.go.id/author/view/6204158) - Publikasi Ilmiah 
+- [JPTIIK](https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/12557) - Publikasi Ilmiah
+- [FILKOMUB](https://filkom.ub.ac.id/2024/08/30/filkom-ub-dan-seclab-id-adakan-sharing-session-and-campus-hiring/) - FILKOM UB dan Seclab.id Adakan Sharing Session dan Campus Hiring
+- [PRASETYAUB](https://prasetya.ub.ac.id/filkom-ub-dan-seclab-id-adakan-sharing-session-dan-campus-hiring/) - FILKOM UB dan Seclab.id Adakan Sharing Session dan Campus Hiring
+
 ## Pemateri
 - Pemateri Sharing Session *Vulnerability Hunt: Exploration of Web Hacking and Security in Real World Scenario* di FILKOM UB 2024
 
 ## CTF Stuffs
 - Pembuat soal CTF Hology 3.0 (penyisihan: 2 pwn 1 rev | final: 1 pwn) 
 - Pembuat soal CTF Hology 4.0 (final: 1 pwn)
-
-## Akademik dan Media
-- [Garuda Kemdikbud](https://garuda.kemdiktisaintek.go.id/author/view/6204158) - Publikasi Ilmiah 
-- [JPTIIK](https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/12557) - Publikasi Ilmiah
-- [FILKOMUB](https://filkom.ub.ac.id/2024/08/30/filkom-ub-dan-seclab-id-adakan-sharing-session-and-campus-hiring/) - FILKOM UB dan Seclab.id Adakan Sharing Session dan Campus Hiring
-- [PRASETYAUB](https://prasetya.ub.ac.id/filkom-ub-dan-seclab-id-adakan-sharing-session-dan-campus-hiring/) - FILKOM UB dan Seclab.id Adakan Sharing Session dan Campus Hiring

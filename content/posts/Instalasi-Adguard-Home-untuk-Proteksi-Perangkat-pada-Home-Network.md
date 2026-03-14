@@ -4,6 +4,7 @@ date: 2022-08-01T23:34:13+07:00
 comments: true
 showtoc: true
 tocopen: true
+ShowReadingTime: true
 ---
 
 # Pendahuluan

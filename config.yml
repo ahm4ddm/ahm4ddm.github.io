@@ -8,7 +8,14 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-4C7QBNGT6Y
+services:
+  googleAnalytics:
+    id: G-4C7QBNGT6Y
+
+privacy:
+  googleAnalytics:
+    disable: false
+    respectDoNotTrack: true
 
 minify:
   disableXML: true

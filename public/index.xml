@@ -6,8 +6,21 @@
     <description>Recent content on ~/.ahm4ddm</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Aug 2022 23:34:13 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 20:02:06 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Membedah Malicious APK Video Anda Viral Dengan Analisis Statis</title>
+      <link>http://localhost:1313/posts/membedah-malicious-apk-video-anda-viral-dengan-analisis-statis/</link>
+      <pubDate>Sat, 14 Mar 2026 20:02:06 +0700</pubDate>
+      <guid>http://localhost:1313/posts/membedah-malicious-apk-video-anda-viral-dengan-analisis-statis/</guid>
+      <description>&lt;h1 id=&#34;membedah-malicious-apk-video-anda-viral-dengan-analisis-statis&#34;&gt;Membedah Malicious APK &lt;em&gt;Video Anda Viral&lt;/em&gt; dengan Analisis Statis&lt;/h1&gt;
+&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;Penulis mendapatkan personal chat dari seseorang intinya adalah video saya viral di Tiktok dan disuruh install aplikasi. (tidak masuk akal soalnya penulis tidak memiliki akun Tiktok tiba-tiba viral. Salah sasaran kali ya :D)
+&lt;img alt=&#34;personal chat dari korban&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Membedah-Malicious-APK-Video-Anda-Viral-dengan-Analisis-Statis/intro-pc.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Kemudian, selang beberapa menit teman saya yang ada di grup menginformasikan bahwa waspada jangan sampai memasang aplikasi.&lt;br&gt;
+&lt;img alt=&#34;informasi dari group&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Membedah-Malicious-APK-Video-Anda-Viral-dengan-Analisis-Statis/intro-group.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dari dua informasi tersebut, penulis tertarik dan mencoba untuk melakukan reverse engineering aplikasi untuk melihat malicious action pada flow aplikasinya.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Instalasi Adguard Home untuk Proteksi Perangkat pada Home Network</title>
       <link>http://localhost:1313/posts/instalasi-adguard-home-untuk-proteksi-perangkat-pada-home-network/</link>
@@ -98,6 +111,13 @@ Blog ini membagikan pengalaman dan pengetahuan saya terkait ilmu komputer dan &l
 &lt;li&gt;&lt;a href=&#34;https://pentestingexams.com/certificate-validation/&#34;&gt;CMPEN-ANDROID&lt;/a&gt; - Certified Mobile Pentester (id: 8974357 first: Ahmad)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://aspen.eccouncil.org/VerifyBadge?type=certification&amp;amp;a=xnGqKp78Li3UXbcVZ7g6jHZFUdPyP6fMLpfLfHbnMJk=&#34;&gt;ECSSv9&lt;/a&gt; - EC-Council Certified Security Specialist v9&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;akademik-dan-media&#34;&gt;Akademik dan Media&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://garuda.kemdiktisaintek.go.id/author/view/6204158&#34;&gt;Garuda Kemdikbud&lt;/a&gt; - Publikasi Ilmiah&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/12557&#34;&gt;JPTIIK&lt;/a&gt; - Publikasi Ilmiah&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://filkom.ub.ac.id/2024/08/30/filkom-ub-dan-seclab-id-adakan-sharing-session-and-campus-hiring/&#34;&gt;FILKOMUB&lt;/a&gt; - FILKOM UB dan Seclab.id Adakan Sharing Session dan Campus Hiring&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prasetya.ub.ac.id/filkom-ub-dan-seclab-id-adakan-sharing-session-dan-campus-hiring/&#34;&gt;PRASETYAUB&lt;/a&gt; - FILKOM UB dan Seclab.id Adakan Sharing Session dan Campus Hiring&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;pemateri&#34;&gt;Pemateri&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Pemateri Sharing Session &lt;em&gt;Vulnerability Hunt: Exploration of Web Hacking and Security in Real World Scenario&lt;/em&gt; di FILKOM UB 2024&lt;/li&gt;
@@ -106,13 +126,6 @@ Blog ini membagikan pengalaman dan pengetahuan saya terkait ilmu komputer dan &l
 &lt;ul&gt;
 &lt;li&gt;Pembuat soal CTF Hology 3.0 (penyisihan: 2 pwn 1 rev | final: 1 pwn)&lt;/li&gt;
 &lt;li&gt;Pembuat soal CTF Hology 4.0 (final: 1 pwn)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;akademik-dan-media&#34;&gt;Akademik dan Media&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://garuda.kemdiktisaintek.go.id/author/view/6204158&#34;&gt;Garuda Kemdikbud&lt;/a&gt; - Publikasi Ilmiah&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/12557&#34;&gt;JPTIIK&lt;/a&gt; - Publikasi Ilmiah&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://filkom.ub.ac.id/2024/08/30/filkom-ub-dan-seclab-id-adakan-sharing-session-and-campus-hiring/&#34;&gt;FILKOMUB&lt;/a&gt; - FILKOM UB dan Seclab.id Adakan Sharing Session dan Campus Hiring&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://prasetya.ub.ac.id/filkom-ub-dan-seclab-id-adakan-sharing-session-dan-campus-hiring/&#34;&gt;PRASETYAUB&lt;/a&gt; - FILKOM UB dan Seclab.id Adakan Sharing Session dan Campus Hiring&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>

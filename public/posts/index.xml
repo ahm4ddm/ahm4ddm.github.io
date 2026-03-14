@@ -6,8 +6,21 @@
     <description>Recent content in Posts on ~/.ahm4ddm</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Aug 2022 23:34:13 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 20:02:06 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Membedah Malicious APK Video Anda Viral Dengan Analisis Statis</title>
+      <link>http://localhost:1313/posts/membedah-malicious-apk-video-anda-viral-dengan-analisis-statis/</link>
+      <pubDate>Sat, 14 Mar 2026 20:02:06 +0700</pubDate>
+      <guid>http://localhost:1313/posts/membedah-malicious-apk-video-anda-viral-dengan-analisis-statis/</guid>
+      <description>&lt;h1 id=&#34;membedah-malicious-apk-video-anda-viral-dengan-analisis-statis&#34;&gt;Membedah Malicious APK &lt;em&gt;Video Anda Viral&lt;/em&gt; dengan Analisis Statis&lt;/h1&gt;
+&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;Penulis mendapatkan personal chat dari seseorang intinya adalah video saya viral di Tiktok dan disuruh install aplikasi. (tidak masuk akal soalnya penulis tidak memiliki akun Tiktok tiba-tiba viral. Salah sasaran kali ya :D)
+&lt;img alt=&#34;personal chat dari korban&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Membedah-Malicious-APK-Video-Anda-Viral-dengan-Analisis-Statis/intro-pc.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Kemudian, selang beberapa menit teman saya yang ada di grup menginformasikan bahwa waspada jangan sampai memasang aplikasi.&lt;br&gt;
+&lt;img alt=&#34;informasi dari group&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Membedah-Malicious-APK-Video-Anda-Viral-dengan-Analisis-Statis/intro-group.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dari dua informasi tersebut, penulis tertarik dan mencoba untuk melakukan reverse engineering aplikasi untuk melihat malicious action pada flow aplikasinya.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Instalasi Adguard Home untuk Proteksi Perangkat pada Home Network</title>
       <link>http://localhost:1313/posts/instalasi-adguard-home-untuk-proteksi-perangkat-pada-home-network/</link>
