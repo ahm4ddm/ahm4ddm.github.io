@@ -7,8 +7,6 @@ tocopen: true
 ShowReadingTime: true
 ---
 
-# Membedah Malicious APK *Video Anda Viral* dengan Analisis Statis
-
 # Intro
 Penulis mendapatkan personal chat dari seseorang intinya adalah video saya viral di Tiktok dan disuruh install aplikasi. (tidak masuk akal soalnya penulis tidak memiliki akun Tiktok tiba-tiba viral. Salah sasaran kali ya :D) 
 ![personal chat dari korban](/img/Membedah-Malicious-APK-Video-Anda-Viral-dengan-Analisis-Statis/intro-pc.png)
