@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ~/.ahm4ddm</title>
     <link>http://localhost:1313/posts/</link>
@@ -13,79 +13,14 @@
       <link>http://localhost:1313/posts/membedah-malicious-apk-video-anda-viral-dengan-analisis-statis/</link>
       <pubDate>Sat, 14 Mar 2026 20:02:06 +0700</pubDate>
       <guid>http://localhost:1313/posts/membedah-malicious-apk-video-anda-viral-dengan-analisis-statis/</guid>
-      <description>&lt;h1 id=&#34;membedah-malicious-apk-video-anda-viral-dengan-analisis-statis&#34;&gt;Membedah Malicious APK &lt;em&gt;Video Anda Viral&lt;/em&gt; dengan Analisis Statis&lt;/h1&gt;
-&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
-&lt;p&gt;Penulis mendapatkan personal chat dari seseorang intinya adalah video saya viral di Tiktok dan disuruh install aplikasi. (tidak masuk akal soalnya penulis tidak memiliki akun Tiktok tiba-tiba viral. Salah sasaran kali ya :D)
-&lt;img alt=&#34;personal chat dari korban&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Membedah-Malicious-APK-Video-Anda-Viral-dengan-Analisis-Statis/intro-pc.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Kemudian, selang beberapa menit teman saya yang ada di grup menginformasikan bahwa waspada jangan sampai memasang aplikasi.&lt;br&gt;
-&lt;img alt=&#34;informasi dari group&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Membedah-Malicious-APK-Video-Anda-Viral-dengan-Analisis-Statis/intro-group.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Dari dua informasi tersebut, penulis tertarik dan mencoba untuk melakukan reverse engineering aplikasi untuk melihat malicious action pada flow aplikasinya.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;&#xA;&lt;p&gt;Penulis mendapatkan personal chat dari seseorang intinya adalah video saya viral di Tiktok dan disuruh install aplikasi. (tidak masuk akal soalnya penulis tidak memiliki akun Tiktok tiba-tiba viral. Salah sasaran kali ya :D)&#xA;&lt;img src=&#34;http://localhost:1313/img/Membedah-Malicious-APK-Video-Anda-Viral-dengan-Analisis-Statis/intro-pc.png&#34; alt=&#34;personal chat dari korban&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kemudian, selang beberapa menit teman saya yang ada di grup menginformasikan bahwa waspada jangan sampai memasang aplikasi.&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/Membedah-Malicious-APK-Video-Anda-Viral-dengan-Analisis-Statis/intro-group.png&#34; alt=&#34;informasi dari group&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dari dua informasi tersebut, penulis tertarik dan mencoba untuk melakukan reverse engineering aplikasi untuk melihat malicious action pada flow aplikasinya.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Instalasi Adguard Home untuk Proteksi Perangkat pada Home Network</title>
       <link>http://localhost:1313/posts/instalasi-adguard-home-untuk-proteksi-perangkat-pada-home-network/</link>
       <pubDate>Mon, 01 Aug 2022 23:34:13 +0700</pubDate>
       <guid>http://localhost:1313/posts/instalasi-adguard-home-untuk-proteksi-perangkat-pada-home-network/</guid>
-      <description>&lt;h1 id=&#34;pendahuluan&#34;&gt;Pendahuluan&lt;/h1&gt;
-&lt;p&gt;Internet memberikan kemudahan dalam mendapatkan suatu informasi, seperti mendapatkan berita dan berkomunikasi dengan seseorang dari segala penjuru dunia. Pada sisi lain internet seperti pisau jika digunakan dibawah umur secara tidak langsung akan melukai dan membahayakan.
-&lt;img alt=&#34;Gambar pendahuluan &#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Instalasi-Adguard-Home-untuk-Proteksi-Perangkat-pada-Home-Network/pendahuluan.png&#34;&gt;
-Pada gambar diatas banyak sekali iklan yang menyerupai seolah-olah bagian dari konten website. Orang yang awam dalam penggunaan teknologi kemungkinan menjadi sasaran dikarenakan kurangnya pengetahuan dalam berseluncur di dunia internet.
-Postingan ini akan menjelaskan bagaimana cara memproteksi jaringan dalam rumah untuk meminimalisir adanya iklan dan memberikan perlindungan tambahan dalam berselancar di internet menggunakan Adguard Home dengan aman.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ROP Emporium</title>
-      <link>http://localhost:1313/posts/ctf/writeup-ropemporium/</link>
-      <pubDate>Wed, 10 Feb 2021 22:29:10 +0700</pubDate>
-      <guid>http://localhost:1313/posts/ctf/writeup-ropemporium/</guid>
-      <description>Writeup ROP Emporium x86 dan x86_64(Indonesia)</description>
-    </item>
-    <item>
-      <title>Writeup Asis Mrs. Hudson [pwn]</title>
-      <link>http://localhost:1313/posts/ctf/writeup-asis-mrs.hudson/</link>
-      <pubDate>Sun, 07 Feb 2021 00:38:53 +0700</pubDate>
-      <guid>http://localhost:1313/posts/ctf/writeup-asis-mrs.hudson/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/ahm4ddm/larebinex/blob/main/64/mrs._hudson/mrs._hudson&#34;&gt;klik disini&lt;/a&gt; untuk download file.&lt;/p&gt;
-&lt;p&gt;Kita cek identitas dari file.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;
-&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
-&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$file mrs._hudson
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;mrs._hudson: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=a99b54f5a0f90ebade826e34188ac1f5eebb2cc7, not stripped
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;Didapatkan file ELF, 64bit, not stripped, dynamically linked.&lt;br&gt;
-Selanjutnya kita cek proteksi pada file tersebut.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;
-&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
-&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
-&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3
-&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;4
-&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;5
-&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;6
-&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;7
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$checksec mrs._hudson
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Arch:     amd64-64-little
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    RELRO:    Partial RELRO
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Stack:    No canary found
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    NX:       NX disabled
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    PIE:      No PIE (0x400000)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    RWX:      Has RWX segments
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;Kita lihat di GDB didapatkan:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OverTheWire: Bandit</title>
-      <link>http://localhost:1313/posts/ctf/writeup-overthewire---bandit-indonesia/</link>
-      <pubDate>Thu, 07 Jan 2021 22:09:39 +0700</pubDate>
-      <guid>http://localhost:1313/posts/ctf/writeup-overthewire---bandit-indonesia/</guid>
-      <description>Writeup OverTheWire - Bandit (Indonesia)</description>
+      <description>&lt;h1 id=&#34;pendahuluan&#34;&gt;Pendahuluan&lt;/h1&gt;&#xA;&lt;p&gt;Internet memberikan kemudahan dalam mendapatkan suatu informasi, seperti mendapatkan berita dan berkomunikasi dengan seseorang dari segala penjuru dunia. Pada sisi lain internet seperti pisau jika digunakan dibawah umur secara tidak langsung akan melukai dan membahayakan.&#xA;&lt;img src=&#34;http://localhost:1313/img/Instalasi-Adguard-Home-untuk-Proteksi-Perangkat-pada-Home-Network/pendahuluan.png&#34; alt=&#34;Gambar pendahuluan &#34;&gt;&#xA;Pada gambar diatas banyak sekali iklan yang menyerupai seolah-olah bagian dari konten website. Orang yang awam dalam penggunaan teknologi kemungkinan menjadi sasaran dikarenakan kurangnya pengetahuan dalam berseluncur di dunia internet.&#xA;Postingan ini akan menjelaskan bagaimana cara memproteksi jaringan dalam rumah untuk meminimalisir adanya iklan dan memberikan perlindungan tambahan dalam berselancar di internet menggunakan Adguard Home dengan aman.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hallo</title>

@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-14T20:02:06+07:00</lastmod>
+    <lastmod>2026-04-12T00:36:01+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writeups/vulnhub-securecode1/</loc>
+    <lastmod>2026-04-12T00:36:01+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writeups/</loc>
+    <lastmod>2026-04-12T00:36:01+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/membedah-malicious-apk-video-anda-viral-dengan-analisis-statis/</loc>
     <lastmod>2026-03-14T20:02:06+07:00</lastmod>
@@ -23,7 +29,7 @@
     <loc>http://localhost:1313/tags/practice/</loc>
     <lastmod>2021-02-10T22:29:10+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ctf/writeup-ropemporium/</loc>
+    <loc>http://localhost:1313/writeups/ropemporium/</loc>
     <lastmod>2021-02-10T22:29:10+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/security/</loc>
@@ -50,10 +56,10 @@
     <loc>http://localhost:1313/tags/stack-overflow/</loc>
     <lastmod>2021-02-07T00:38:53+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ctf/writeup-asis-mrs.hudson/</loc>
+    <loc>http://localhost:1313/writeups/asis2017-mrs.hudson/</loc>
     <lastmod>2021-02-07T00:38:53+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ctf/writeup-overthewire---bandit-indonesia/</loc>
+    <loc>http://localhost:1313/writeups/overthewire-bandit-indonesia/</loc>
     <lastmod>2021-01-07T22:09:39+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hallo/</loc>
