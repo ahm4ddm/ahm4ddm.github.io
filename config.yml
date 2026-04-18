@@ -76,17 +76,17 @@ menu:
       name: posts
       url: /posts/
       weight: 10
-    - identifier: about
-      name: about
-      url: /about/
-      weight: 20
     - identifier: writeups
       name: writeups
       url: /writeups/
-      weight: 30
+      weight: 20
     - identifier: archives
       name: archives
       url: /archives/
+      weight: 30
+    - identifier: about
+      name: about
+      url: /about/
       weight: 40
 
 markup:
