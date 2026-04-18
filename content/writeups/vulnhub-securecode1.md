@@ -28,7 +28,7 @@ $ qemu-img convert -O qcow2 SecureCode1-disk1.vmdk SecureCode1-disk1.qcow2
 ```
 
 ## virtualization using UTM
-Download dari https://getutm.app/ atau dari https://github.com/utmapp/UTM/releases kemudian pilih 'emulate'
+Download dari https://getutm.app/ atau dari https://github.com/utmapp/UTM/releases kemudian pilih *emulate*
 ![emulate UTM](/img/Vulnhub-Securecode1/UTM-start.png)
 Lalu bagian 
 ```
