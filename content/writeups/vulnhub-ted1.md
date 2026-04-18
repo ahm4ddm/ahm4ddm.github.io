@@ -19,7 +19,7 @@ $ brew install qemu
 $ qemu-system-x86_64 --version
 ``` 
 
-![qemu version](/img/Ted-oswe-prep/qemu-version.png)
+![qemu version](/img/Vulnhub-Ted1/qemu-version.png)
 
 ## convert OVA to QCOW2
 Lakukan ekstrak file kemudian convert file vmdk ke qcow2
@@ -29,7 +29,7 @@ $ qemu-img convert -O qcow2 ted.vmdk ted.qcow2
 
 ## virtualization using UTM
 
-Download dari [https://getutm.app/](https://getutm.app/) atau dari [https://github.com/utmapp/UTM/releases](https://github.com/utmapp/UTM/releases) kemudian pilih ’emulate' ![emulate UTM](/img/Ted-oswe-prep/utm-start.png) Lalu bagian
+Download dari [https://getutm.app/](https://getutm.app/) atau dari [https://github.com/utmapp/UTM/releases](https://github.com/utmapp/UTM/releases) kemudian pilih ’emulate' ![emulate UTM](/img/Vulnhub-Ted1/UTM-start.png) Lalu bagian
 ```
 'Operating System' pilih 'Other' 
 'Hardware' pilih 'x86_x64' 
@@ -45,9 +45,9 @@ section 'QEMU' pilih unchecklist 'UEFI Boot'
 
 # Weak credentials and details error/response leads to account takeover
 
-Akses web didapatkan login file ![index page](/img/Ted-oswe-prep/index.png)
+Akses web didapatkan login file ![index page](/img/Vulnhub-Ted1/index.png)
 
-Saat submit form didapatkan body request dan endpoint ![submit form](/img/Ted-oswe-prep/request-burp.png)
+Saat submit form didapatkan body request dan endpoint ![submit form](/img/Vulnhub-Ted1/request-burp.png)
 
 Dari hasil response didapatkan bisa enumerasi valid user, saat mengganti user admin didapatkan response
 ```
@@ -94,7 +94,7 @@ Didapatkan perbedaan response
     <p>Password hash is not correct, make sure to hash it before submit.</p>
 ``` 
 
-Berdasarkan hasil response, value password harus bentuk hash. Permasalahannya adalah tidak tau memakai hash apa. Lakukan percobaan dengan SHA256, MD5, dan SHA1 ![possible hash](/img/Ted-oswe-prep/possible-hash.png)
+Berdasarkan hasil response, value password harus bentuk hash. Permasalahannya adalah tidak tau memakai hash apa. Lakukan percobaan dengan SHA256, MD5, dan SHA1 ![possible hash](/img/Vulnhub-Ted1/possible-hash.png)
 
 Penulis generate hash menggunakan ini [https://emn178.github.io/online-tools/](https://emn178.github.io/online-tools/)
 ```
@@ -148,7 +148,7 @@ Didapatkan berhasil
     Content-Type: text/html; charset=UTF-8
 ```
 
-Kemudian login terdapat search input yang rentan terhadap local file inclusion (LFI) ![LFI](/img/Ted-oswe-prep/lfi.png)
+Kemudian login terdapat search input yang rentan terhadap local file inclusion (LFI) ![LFI](/img/Vulnhub-Ted1/lfi.png)
 
 Kemudian menggunakan referensi dari [https://medium.com/@lashin0x/local-file-inclusion-to-remote-code-execution-rce-bea0ec06342a](https://medium.com/@lashin0x/local-file-inclusion-to-remote-code-execution-rce-bea0ec06342a)
 ```
@@ -190,13 +190,13 @@ Idenya yaitu dengan session, pertama sesuaikan path dengan session
     /var/lib/php/sessions/sess_<SESSIONFROMBODYREQUEST>
 ```
 
-![normal session](/img/ted-oswe-prep/normal-session.png)
+![normal session](/img/Vulnhub-Ted1/normal-session.png)
 
-Kemudian setelah dicoba dengan overwrite field name gagal, setelah melihat dari normal request field user\_pref merupakan controllable input lalu ganti value user\_pref ke php code rce didapatkan berhasil ![success rce](/img/ted-oswe-prep/success-rce.png)
+Kemudian setelah dicoba dengan overwrite field name gagal, setelah melihat dari normal request field user\_pref merupakan controllable input lalu ganti value user\_pref ke php code rce didapatkan berhasil ![success rce](/img/Vulnhub-Ted1/success-rce.png)
 
 Untuk script akses [disini](https://github.com/ahm4ddm/oswe-preparation/blob/main/exp-ted1.py)
 
-Didapatkan berhasil reverse shell ![revshell](/img/ted-oswe-prep/revshell.png)
+Didapatkan berhasil reverse shell ![revshell](/img/Vulnhub-Ted1/revshell.png)
 
 # Privilege escalation through misconfig sudoers - apt-get
 
@@ -210,4 +210,4 @@ Didapatkan misconfig binary apt-get dengan memanfaatkan misconfig ini didapatkan
 sudo apt-get update -o APT::Update::Pre-Invoke::=/bin/sh
 ```   
 
-![privesc](/img/ted-oswe-prep/privesc.png)
+![privesc](/img/Vulnhub-Ted1/privesc.png)
